@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohitkumar2217
 - 👀 I’m interested in java, cpp and js
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on none
+<!--- 💞️ I’m looking to collaborate on none --->
 - 📫 How to reach me mohitkumawat221004@gmail.com
 - 
 <!---
